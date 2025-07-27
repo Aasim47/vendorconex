@@ -1,4 +1,4 @@
-# VenDorConneX
+# VenDorConeX
 
 Vendorconex Backend
 Welcome to the backend repository for Vendorconex, a robust e-commerce platform designed to facilitate product management, order processing, user authentication, and reviews/ratings. This backend serves as the API for a multi-vendor marketplace, providing all necessary data and logic for a dynamic frontend application.

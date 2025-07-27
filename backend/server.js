@@ -46,7 +46,7 @@ app.use("/api/auth", authRoutes); // All routes in auth.js will start with /api/
 app.use("/api/products", productsRoutes);
 app.use("/api/orders", ordersRoutes);
 app.use("/api/users", usersRoutes);
-app.use("/api/chat", chatRoutes);
+app.use("/api/chat", chatRoutes);   
 app.use("/api/cart", cartRoutes); // <--- ADDED FOR CART ROUTES
 
 
